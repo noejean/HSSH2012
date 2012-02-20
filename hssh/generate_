@@ -1,0 +1,5 @@
+#!/bin/bash	
+perl ade2ics-v3.3.pl -u http://ade52-ujf.grenet.fr/ade/ -l voirPOLYTECH -p polytech -n 1117 -y "EMPLOI DU TEMPS POLYTECH 2011/2012" > polytech.ics
+perl ade2ics-v3.3.pl -u http://ade52-ujf.grenet.fr/ade/ -l voirIMA -p ima -n 9 > imag.ics
+
+
