@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="jdom/build/jdom-1.1.2.jar"/>
+	<classpathentry kind="lib" path="rxtx-2.1-7-bins-r2/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="jars/com.springsource.javax.mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="jars/xuggle-xuggler-3.1.818.jar"/>
+	<classpathentry kind="lib" path="jars/v4l4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
